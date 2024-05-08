@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.25.0.32</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>E:\Python\MachineLearning\Crack\FlexuralShear.jpg</Name>
+    <Width>439</Width>
+    <Height>557</Height>
+  </File>
+  <Line>
+    <Caption>Line #1</Caption>
+    <LineColor>167,167,167</LineColor>
+    <BkColor>250,250,250</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">967,4684,1030,4657,1093,4657,1174,4657,1255,4648,1309,4666,1363,4711,1408,4693,1453,4693,1516,4693</Points>
+    <Points MF="9">1561,4711,1615,4720</Points>
+  </Line>
+  <Line>
+    <Caption>Line #2</Caption>
+    <LineColor>167,167,167</LineColor>
+    <BkColor>250,250,250</BkColor>
+    <PtColor>230,220,20</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">940,4423,1030,4432,1093,4423,1147,4450,1219,4468,1273,4477,1309,4513,1345,4531,1417,4522,1453,4531</Points>
+    <Points MF="9">1525,4549</Points>
+  </Line>
+  <Line>
+    <Caption>Line #3</Caption>
+    <LineColor>167,167,167</LineColor>
+    <BkColor>250,250,250</BkColor>
+    <PtColor>255,20,160</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">931,4081,994,4081,1048,4081,1120,4081,1165,4099,1219,4108,1264,4135,1300,4171,1345,4180,1363,4198</Points>
+    <Points MF="9">1408,4216,1435,4243,1471,4261,1498,4288,1525,4315,1561,4333,1597,4351,1633,4369,1669,4369,1714,4396</Points>
+    <Points MF="9">1741,4423</Points>
+  </Line>
+  <Line>
+    <Caption>Line #4</Caption>
+    <LineColor>167,167,167</LineColor>
+    <BkColor>250,250,250</BkColor>
+    <PtColor>128,220,255</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">949,3685,985,3685,1021,3685,1066,3685,1093,3694,1156,3703,1192,3712,1237,3721,1291,3757,1327,3775</Points>
+    <Points MF="9">1354,3811,1390,3829,1444,3856,1480,3892,1507,3919,1552,3964,1597,4000,1624,4027,1678,4045,1723,4081</Points>
+    <Points MF="9">1759,4099,1804,4135,1858,4171,1894,4198,1957,4225,2002,4261,2047,4279</Points>
+  </Line>
+  <CurrentLine>3</CurrentLine>
+  <Xmin MF="9">931,4729,0.000000e+000</Xmin>
+  <Xmax MF="9">3055,4729,1.000000e+000</Xmax>
+  <Ymin MF="9">931,4729,0.000000e+000</Ymin>
+  <Ymax MF="9">922,544,1.000000e+000</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>233,463</Position>
+  <Zoom>
+    <Scale>250.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>1</ShowGrid>
+    <AreaType>0</AreaType>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>

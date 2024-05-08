@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.25.0.32</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>E:\Python\MachineLearning\Crack\Flexure.jpg</Name>
+    <Width>393</Width>
+    <Height>739</Height>
+  </File>
+  <Line>
+    <Caption>Line #1</Caption>
+    <LineColor>7,6,5</LineColor>
+    <BkColor>170,148,118</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">427,6430,445,6439,445,6421,445,6403,454,6385,445,6331,436,6358,427,6331,445,6349,454,6367</Points>
+    <Points MF="9">454,6286,436,6241,436,6196,427,6133,454,6223,454,6151,454,6043,445,5935,445,5881,445,5827</Points>
+    <Points MF="9">436,5755,436,5701,427,5656,427,5620,427,5512,427,5476,427,5449,427,5521,427,5557,427,5737</Points>
+    <Points MF="9">427,5791,436,5809,427,5836,427,5854,427,5872,427,5899,427,5926,427,5953,427,5971,427,5998</Points>
+    <Points MF="9">427,6016,418,6043,418,6061,427,6088,427,6061,436,6034,436,6007,436,5980,445,5953,436,5917</Points>
+    <Points MF="9">436,5890,445,5845,436,5827,427,5809,427,5782,436,5953,436,6016,445,6007,445,5989,445,6034</Points>
+    <Points MF="9">445,6061,445,6079,445,6097,445,6115,445,6151,436,6178,445,6178,436,6106,436,6079,436,6052</Points>
+    <Points MF="9">427,6115,427,6106,427,6151,427,6178,427,6196,427,6214,436,6205,445,6223,445,6241,445,6259</Points>
+    <Points MF="9">436,6304,454,6331,454,6304,427,6268,427,6232,427,6286,427,6259,427,6250,427,6322,427,6349</Points>
+    <Points MF="9">427,6367,436,6367,445,6385,427,6385,427,6403,436,6385,427,6376,427,6412,436,6403,436,6430</Points>
+    <Points MF="9">427,6421,427,6394,436,6331,445,6295,436,6259,445,6277,427,6304,436,6232,445,6169,445,6205</Points>
+    <Points MF="9">445,6133,445,5971</Points>
+  </Line>
+  <Line>
+    <Caption>Line #2</Caption>
+    <LineColor>7,6,5</LineColor>
+    <BkColor>170,148,118</BkColor>
+    <PtColor>230,220,20</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">427,5989,463,5989,499,6007,544,6025,589,6025,652,6034,706,6025,760,6025,796,6043,850,6070</Points>
+    <Points MF="9">877,6088,904,6088,967,6097</Points>
+  </Line>
+  <Line>
+    <Caption>Line #3</Caption>
+    <LineColor>7,6,5</LineColor>
+    <BkColor>170,148,118</BkColor>
+    <PtColor>255,20,160</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">418,5674,463,5683,526,5683,553,5701,607,5719,679,5746,733,5755,778,5782,814,5791,832,5809</Points>
+    <Points MF="9">895,5827,949,5845</Points>
+  </Line>
+  <Line>
+    <Caption>Line #4</Caption>
+    <LineColor>7,6,5</LineColor>
+    <BkColor>170,148,118</BkColor>
+    <PtColor>128,220,255</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">418,5215,463,5215,508,5224,553,5224,589,5233,643,5251,679,5260</Points>
+  </Line>
+  <Line>
+    <Caption>Line #5</Caption>
+    <LineColor>7,6,5</LineColor>
+    <BkColor>170,148,118</BkColor>
+    <PtColor>128,245,128</PtColor>
+    <LineType>0</LineType>
+  </Line>
+  <CurrentLine>4</CurrentLine>
+  <Xmin MF="9">418,6430,0.000000e+000</Xmin>
+  <Xmax MF="9">2983,6430,1.000000e+000</Xmax>
+  <Ymin MF="9">418,6430,0.000000e+000</Ymin>
+  <Ymax MF="9">418,895,1.000000e+000</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>-28,451</Position>
+  <Zoom>
+    <Scale>350.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>1</ShowGrid>
+    <AreaType>0</AreaType>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>

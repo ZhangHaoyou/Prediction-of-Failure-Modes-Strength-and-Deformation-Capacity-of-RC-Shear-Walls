@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.25.0.32</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>E:\Python\MachineLearning\Crack\DiagonalTensiler.jpg</Name>
+    <Width>1151</Width>
+    <Height>589</Height>
+  </File>
+  <Line>
+    <Caption>Line #1</Caption>
+    <LineColor>2,2,2</LineColor>
+    <BkColor>254,254,254</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">1003,661,1039,715,1111,769,1147,787,1210,841,1291,868,1354,904,1417,958,1498,1021,1624,1039</Points>
+    <Points MF="9">1705,1075,1804,1111,1921,1138,1975,1210,2029,1228,2101,1273,2164,1309,2200,1345,2281,1372,2380,1417</Points>
+    <Points MF="9">2461,1453,2569,1489,2623,1525,2713,1552,2776,1597,2839,1633,2929,1678,2983,1741,3073,1804,3145,1822</Points>
+    <Points MF="9">3253,1876,3343,1930,3433,1975,3532,2020,3622,2074,3685,2137,3775,2182,3937,2236,4054,2263,4171,2335</Points>
+    <Points MF="9">4315,2380,4450,2470,4603,2542,4675,2587,4783,2623,4900,2677,5053,2740,5152,2803,5224,2848,5368,2920</Points>
+    <Points MF="9">5557,3001,5701,3082,5836,3163,5935,3208,6061,3271,6160,3307,6268,3352,6367,3388,6484,3424,6592,3469</Points>
+    <Points MF="9">6664,3523,6772,3577,6853,3631,6934,3649,7087,3739,7168,3757,7321,3811,7447,3883,7591,3937,7717,4009</Points>
+    <Points MF="9">7834,4072,7978,4153,8140,4216,8257,4261,8383,4297,8518,4378,8635,4441,8734,4459,8923,4522,8995,4576</Points>
+    <Points MF="9">9067,4630,9175,4675,9211,4711,9229,4756</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">967,4711,0.000000e+000</Xmin>
+  <Xmax MF="9">9229,4756,1.000000e+000</Xmax>
+  <Ymin MF="9">967,4711,0.000000e+000</Ymin>
+  <Ymax MF="9">1003,661,1.000000e+000</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>145,-37</Position>
+  <Zoom>
+    <Scale>150.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>1</ShowGrid>
+    <AreaType>0</AreaType>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>
